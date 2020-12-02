@@ -1,1 +1,1 @@
-web: gunicorn app:resume
+web: gunicorn app:app
